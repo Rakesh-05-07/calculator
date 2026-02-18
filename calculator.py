@@ -14,7 +14,7 @@ elif op == "/":
         exit()
     result = num1 / num2
 else:
-    print("Invalid operator")
+    print("Invalid operators")
     exit()
 
 print("Result:", result)
