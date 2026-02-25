@@ -21,3 +21,5 @@ pipeline{
         sh'java Calculator 30 5'
       }
     }
+  }
+}
